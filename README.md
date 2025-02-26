@@ -7,7 +7,7 @@
 🔥 About Me
 
 🔭 I’m currently working on…
-	•	Building and refining Internal Developer Platforms (IDP) and Golden Paths
+	•	Quality and Experience of Engineers using Internal Developer Platforms (IDP) and Golden Paths
 	•	Enhancing CI/CD pipelines using GitHub Actions, Harness, and Jenkins
 	•	Developing personal projects to explore new technologies and problem-solving
 
