@@ -26,7 +26,7 @@
 	•	Test automation, Playwright, and cloud-based testing strategies
 
 📫 How to reach me:
-	•	Portfolio: benpavey.com (Coming soon!)
+	•	Portfolio: benpavey.com
 	•	LinkedIn: linkedin.com/in/benpavey
 
 
