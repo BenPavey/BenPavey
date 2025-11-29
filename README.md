@@ -1,6 +1,6 @@
 📌 Ben Pavey | DevOps | Quality | Platform Engineering
 
-👋 Hey there! I’m Ben Pavey, a Quality Engineering Specialist with 10+ years of experience in large-scale corporate software development and Quality Engineering. I specialise in software quality, test automation, platform engineering and DevOps. My work focuses on building scalable CI/CD workflows, improving engineering platforms, and ensuring software quality at scale.
+👋 Hey there! I’m Ben Pavey, a Senior Software Engineer with 10+ years of experience in large-scale corporate software development and Testing. I specialise in software quality, test automation, platform engineering and DevOps. My work focuses on building scalable CI/CD workflows, improving engineering platforms, and ensuring software quality at scale.
 
 💡 I hold a First-Class BSc (Hons) in Digital & Technology Solutions (Software Engineering) and actively develop projects to solve real problems while sharpening my technical skills.
 
